@@ -306,3 +306,15 @@ background-color: #cc005f;
 footer{
 	background-color: #e2e2e2d0;
 }
+
+@media (max-width: 800px) {
+	.d-flex {
+	  flex-direction: column;
+	}
+  }
+
+  .gap{
+	margin-top: 200px;
+  }
+
+  
